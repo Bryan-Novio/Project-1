@@ -1,10 +1,8 @@
 
-cooooler
+warm
+
+warmer
+
+warmest
 
 
-coolest
-coolestest
-
-coolestestest
-
-coolestestestest
